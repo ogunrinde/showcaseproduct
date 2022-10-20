@@ -17,7 +17,7 @@
     "react-native-gesture-handler": "^1.5.1",
     "react-native-multi-selectbox": "^1.2.7",
     "react-native-option-select": "^1.0.4",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-select-input-ios": "^2.0.2",
     "react-native-splash-screen": "^3.2.0",
